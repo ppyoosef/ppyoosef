@@ -1,5 +1,3 @@
-<img width="300px" style="border-radius: 8px; object-fit:cover; border-color:white; border: 3px" src="https://ppyoosef.github.io/assets/images/photo.jpg"/>
-
 # Hey, i'm Yoosef Palamadathil 👋
 
 ###  - Full Stack Developer!💻
