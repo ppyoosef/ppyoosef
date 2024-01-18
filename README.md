@@ -1,3 +1,4 @@
+<img width="300px" align="right" style="border-radius: 8px; background-color:green" src="https://ppyoosef.github.io/assets/images/photo.jpg"/>
 # Hey, i'm Yoosef Palamadathil 👋
 
 ###  - Full Stack Developer!💻
