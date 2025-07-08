@@ -8,8 +8,6 @@ Passionate programmer and perpetual tech enthusiast. Always on the cutting edge 
 ### 🪄 Technologies I use
 
 <!-- TODO: Make technologies links takes you to repositories -->
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,sass,typescript,angular,react,java,jquery,bootstrap,tailwind,materialui,nodejs,express,webpack,python,wordpress&theme=light)]
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,typescript,angular,react,java,jquery,bootstrap,tailwind,materialui,nodejs,express,webpack,python,wordpress&theme=light)](https://skillicons.dev)
 
 ### 🔗 My Languages
